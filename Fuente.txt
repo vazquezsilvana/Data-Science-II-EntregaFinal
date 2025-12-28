@@ -1,1 +1,6 @@
+Datos: 
 https://www.kaggle.com/datasets/adilshamim8/social-media-addiction-vs-relationships
+
+Iconos de la presentación: 
+https://www.flaticon.es
+https://fontawesome.com/v6
